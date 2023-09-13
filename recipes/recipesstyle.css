@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(206, 195, 176);
+    font-family: Poppins;
+}
+
+img{
+    height: 250px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.title{
+    background-color: rgb(78, 70, 62);
+    height: 50px;
+    color:white;
+    text-align: center;
+    font-size: 23px;
+    padding-top: 20px;
+}
+
+.short-description {
+    text-align: center;
+}
+
+.list {
+    background-color: rgb(107, 101, 97);
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.recipe{
+    text-align: center;
+}
+
+#tinola-img{
+    width: 350px;
+}
+
+

@@ -1,0 +1,13 @@
+body {
+    font-family: Poppins;
+    text-align: center;
+    background-color: rgb(229, 222, 199);
+}
+
+.recipe {
+    color:black;
+    background-color: rgb(193, 188, 188);
+    padding:10px;
+    float:center;
+    font-size: 20px;
+}

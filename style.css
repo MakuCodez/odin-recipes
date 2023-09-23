@@ -1,13 +1,74 @@
-body {
+body{
     font-family: Poppins;
+    background-color: #625d57;
     text-align: center;
-    background-color: rgb(229, 222, 199);
 }
 
-.recipe {
-    color:black;
-    background-color: rgb(193, 188, 188);
-    padding:10px;
-    float:center;
+.title{
+    text-align: center;
+    letter-spacing: 2px;
+    color: #b6aa98;
+}
+
+.recipe{
+    color:#4b362b;
+    display: inline-block;
     font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.picture.adobo{
+    width: 150px;
+    height: 110px;
+}
+
+.picture.tinola{
+    width: 150px;
+    height: 110px;
+}
+
+.picture.sinigang{
+    width: 150px;
+    height: 110px;
+}
+
+.adobo-frame{
+    display: inline-block;
+    background-color: #998c79;
+    width: 180px;
+    height: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: auto;
+    text-align: center;
+    margin: 10px;
+}
+
+.tinola-frame{
+    display: inline-block;
+    background-color: #998c79;
+    width: 180px;
+    height: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: auto;
+    text-align: center;
+    margin: 10px;
+}
+
+.sinigang-frame{
+    display: inline-block;;
+    background-color: #998c79;
+    width: 180px;
+    height: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: auto;
+    text-align: center;
+    margin: 10px;
 }
